@@ -16,4 +16,10 @@ This project aims to establish a robust data engineering pipeline utilizing Azur
    - Azure Synaps
 
 ## Database Files Used 
+The AdventureWorks database is a popular and widely-used sample database provided by Microsoft for SQL Server. It serves as an excellent resource for learning and practicing SQL queries, database design, and various data-related tasks
+
 **Visit the official Microsoft GitHub repository for AdventureWorks samples** at https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks.
+Download the AdventureWorks backup file (AdventureWorks.bak) from the 'AdventureWorks backup' section.
+
+
+
